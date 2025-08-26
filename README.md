@@ -63,7 +63,7 @@ print(f'Discovered {len(findings)} vulnerabilities')
 ## 🎨 Visualization Gallery
 
 ### Attack Progression Analysis
-![Attack Progression Analysis](Figures/attack_tree (1).png)
+![Attack Progression Analysis](attack_tree (1).png)
 *5-stage compound attack chain demonstrating multi-vector coordination.*
 
 ### Global Impact Assessment
