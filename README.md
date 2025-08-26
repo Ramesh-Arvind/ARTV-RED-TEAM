@@ -63,19 +63,19 @@ print(f'Discovered {len(findings)} vulnerabilities')
 ## 🎨 Visualization Gallery
 
 ### Attack Progression Analysis
-![Attack Progression Analysis](Figures/attack_tree.png)
+![Attack Progression Analysis](Figures/attack_tree (1).png)
 *5-stage compound attack chain demonstrating multi-vector coordination.*
 
 ### Global Impact Assessment
-![Global Impact Assessment](Figures/breadth_analysis.png)
+![Global Impact Assessment](Figures/breadth_analysis (1).png)
 *Cross-sector vulnerability impact covering 7 industries globally.*
 
 ### Vulnerability Heatmap
-![Vulnerability Heatmap](Figures/impact_heatmap.png)
+![Vulnerability Heatmap](Figures/impact_heatmap (1).png)
 *Strategic deception achieves breakthrough-level novelty scores.*
 
 ### Discovery Timeline
-![Discovery Timeline](Figures/novelty_timeline.png)
+![Discovery Timeline](Figures/novelty_timeline (1).png)
 *All findings achieve "BREAKTHROUGH" classification.*
 
 ## 🛠️ Architecture
