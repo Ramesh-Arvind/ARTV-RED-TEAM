@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "artv"
+version = "0.1.0"
+authors = [
+  { name="Your Team Name", email="contact@example.com" },
+]
+description = "An advanced agent-based red-teaming toolkit for discovering vulnerabilities in LLMs, developed for the OpenAI gpt-oss-20b Safety Hackathon."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Security",
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "networkx",
+    "adjusttext"
+]
