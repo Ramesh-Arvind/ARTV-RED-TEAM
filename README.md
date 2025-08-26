@@ -1,10 +1,4 @@
-You are right, the formatting in the text you provided is a bit off, which is why it doesn't look good when rendered as a `README.md` file. The main issues are with code blocks, headings, lists, and tables.
 
-Here is the corrected and properly formatted Markdown code. You can copy and paste this directly into your `README.md` file.
-
-### Corrected `README.md` File
-
-```markdown
 # ARTV: Advanced Red-Teaming for Vulnerabilities
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -27,7 +21,6 @@ Clone and install the toolkit:
 git clone https://github.com/Ramesh-Arvind/ARTV-RED-TEAM.git
 cd ARTV-RED-TEAM
 pip install -e .
-```
 
 Run the Level 10 campaign:
 ```python
